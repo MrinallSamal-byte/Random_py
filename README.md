@@ -21,7 +21,8 @@ The tutorial covers:
 
 ## 🚀 Get Started
 
-- **[Full Tutorial](python_random_tutorial.md)** - Complete beginner-friendly guide
+- **[Full Tutorial](python_random_tutorial.md)** - Complete beginner-friendly guide (start here!)
+- **[Learning Path](learning_path.md)** - Structured study plan with projects
 - **[Quick Reference](quick_reference.md)** - Cheat sheet for quick lookups
 - **[Examples](examples.py)** - Runnable code examples
 
