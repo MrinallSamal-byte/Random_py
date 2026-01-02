@@ -21,7 +21,9 @@ The tutorial covers:
 
 ## 🚀 Get Started
 
-Read the full tutorial here: **[Python Random Module Tutorial](python_random_tutorial.md)**
+- **[Full Tutorial](python_random_tutorial.md)** - Complete beginner-friendly guide
+- **[Quick Reference](quick_reference.md)** - Cheat sheet for quick lookups
+- **[Examples](examples.py)** - Runnable code examples
 
 ## ✨ Features
 
